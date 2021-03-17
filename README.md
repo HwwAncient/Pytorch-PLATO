@@ -24,6 +24,9 @@ tar xzf data.tar.gz
 ```
 
 ## Citation
+**PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable**
+[paper link](https://www.aclweb.org/anthology/2020.acl-main.9.pdf)
+
 Original code link in paddlepaddle version: [https://github.com/PaddlePaddle/Research/tree/master/NLP/Dialogue-PLATO](https://github.com/PaddlePaddle/Research/tree/master/NLP/Dialogue-PLATO)
 
 Other details can also refer to the descriptions in paddlepaddle version from the above link, we keep the same with it!
