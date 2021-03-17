@@ -26,7 +26,7 @@ tar xzf data.tar.gz
 ## Citation
 Original code link in paddlepaddle version: [https://github.com/PaddlePaddle/Research/tree/master/NLP/Dialogue-PLATO](https://github.com/PaddlePaddle/Research/tree/master/NLP/Dialogue-PLATO)
 
-Other details can also refer to the descriptions in paddlepaddle version from the above link, we keep the same with it.
+Other details can also refer to the descriptions in paddlepaddle version from the above link, we keep the same with it!
 ```
 @inproceedings{bao2019plato,
     title={PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable},
