@@ -5,6 +5,8 @@ This repository contains:
 1. PLATO source code converted in pytorch version.
 2. PLATO pre-trained parameters converted in pytorch version: 12-layers, 768-hidden, 12-heads, 132M parameters (uncased model with latent variables).
 
+For simplicity, you can also download the model file `PLATO.pt` from this [link](https://drive.google.com/file/d/1JqO0ZYN0qJmCWVui8jfe6dyyziJfqyo3/view?usp=sharing).
+
 ## Requirements
 ```
 - python >= 3.6
